@@ -1,8 +1,10 @@
 # YLD Coding Challenge
 
-We are putting together a guerrilla recruitment campaign to hire some great
-Node and React devs. This campaign will involve a technical challenge that
-candidates will have to solve, to apply for a job with us.
+We love working with the best people, and when we hire it’s the time to get the 
+very best co-workers.  We all know the pool of talent is surprisingly small
+and acknowledge that our networks only reach so far, so we're trying to find
+creative ways to reach beyond our networks to filter out and attract the very
+best.
 
 Ideas can be partially thought out - Even a one line idea about a theme. It's
 entirely fine for the idea to be a seed for discussion and you should feel free
