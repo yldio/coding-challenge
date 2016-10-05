@@ -37,7 +37,7 @@ entirely fine for the idea to be a seed for discussion and you should feel free
 to suggest enhancements or changes to existing ideas, *including this readme!*
 Just submit a pull request if you want to add or change anything here.
 
-## Proposed Judging Criteria
+## How will we judge submissions?
 
 * Clean, logical git commits.
 * Good git commit messages
@@ -48,7 +48,7 @@ Just submit a pull request if you want to add or change anything here.
 * Quality of algorithm implementation
 * High test coverage
 
-## Channels of distribution / promotion
+## How will we promote it?
 
 * Hubspot
 * YLD twitter
