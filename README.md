@@ -1,6 +1,6 @@
 # YLD Coding Challenge
 
-## What are we doing?
+## :trophy: What are we doing?
 
 We are putting together a guerrilla recruitment campaign to hire some great
 Node and React devs. This campaign will involve a technical challenge that
