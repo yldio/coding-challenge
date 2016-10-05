@@ -42,7 +42,7 @@ Just submit a pull request if you want to add or change anything here.
 * Clean, logical git commits.
 * Good git commit messages
 * Follow git blesssed commit message style
-* ALl commits are green and pass tests
+* All commits are green (pass tests) and pass lint
 * Correct implementation
 * Consistent code style
 * Quality of algorithm implementation
