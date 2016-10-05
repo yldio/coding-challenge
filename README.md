@@ -51,7 +51,7 @@ Just submit a pull request if you want to add or change anything here.
 * Correct implementation
 * Consistent code style
 * Quality of algorithm implementation
-* High test coverage
+* Good and appropriate test coverage
 
 ## :mega: How will we promote it?
 
