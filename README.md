@@ -6,7 +6,7 @@ We are putting together a guerrilla recruitment campaign to hire some great
 Node and React devs. This campaign will involve a technical challenge that
 candidates will have to solve, to apply for a job with us.
 
-## Why are we doing this?
+## :question: Why are we doing this?
 
 We love working with the best people, and when we hire it’s the time to get the 
 very best co-workers.  We all know the pool of talent is surprisingly small
@@ -14,7 +14,7 @@ and acknowledge that our networks only reach so far, so we're trying to find
 creative ways to reach beyond our networks to filter out and attract the very
 best.
 
-## How can you help?
+## :octocat: How can you help?
 
 In order to make the campaign appealing to candidates, we would like your
 ideas for:
@@ -37,7 +37,7 @@ entirely fine for the idea to be a seed for discussion and you should feel free
 to suggest enhancements or changes to existing ideas, *including this readme!*
 Just submit a pull request if you want to add or change anything here.
 
-## How will we judge submissions?
+## :hammer: How will we judge submissions?
 
 * Clean, logical git commits.
 * Good git commit messages
@@ -48,7 +48,7 @@ Just submit a pull request if you want to add or change anything here.
 * Quality of algorithm implementation
 * High test coverage
 
-## How will we promote it?
+## :mega: How will we promote it?
 
 * Hubspot
 * YLD twitter
