@@ -9,7 +9,7 @@ const Banner = (props) => (
                   A <strong>monthly</strong> coding challenge for all <code>code</code> friendly members of YLDers.
                 </p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Get Coding</a></li>
+                    <li><a href="#two" className="button next scrolly">Get Coding</a></li>
                 </ul>
             </div>
         </div>
