@@ -29,22 +29,21 @@ export default () => (
                         </ul>
                     </div>
                 </section>
-{ /*{
                 <section id="one" className="tiles">
                     <article style={{backgroundImage: `url('/static/images/pic01.jpg')`}}>
                         <header className="major">
-                            <h3>Aliquam</h3>
-                            <p>Ipsum dolor sit amet</p>
+                            <h3>CC#2 TBC</h3>
+                            <p>Maybe you can suggest the next one?</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic02.jpg')`}}>
                         <header className="major">
-                            <h3>Tempus</h3>
-                            <p>feugiat amet tempus</p>
+                            <h3>CC#3 TBC</h3>
+                            <p>Maybe an NP Hard problem 😊?</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="https://en.wikipedia.org/wiki/NP-hardness"><a className="link primary"></a></Link>
                     </article>
+{ /*{
                     <article style={{backgroundImage: `url('/static/images/pic03.jpg')`}}>
                         <header className="major">
                             <h3>Magna</h3>
@@ -73,8 +72,8 @@ export default () => (
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
-                </section>
                 */}
+                </section>
             </div>
 
         </div>
