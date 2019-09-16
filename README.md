@@ -1,9 +1,9 @@
-# nextjs-starter-forty
-A Next.js starter based on the Forty site template, designed by HTML5 UP. Check out https://codebushi.com/nextjs-website-starters/ for more Next.js starters and templates.
+# yld-coding-challenge
+A Next.js site for the YLD Coding Challenge.
 
 ## Preview
 
-http://nextjs-forty.surge.sh/
+https://yld-coding-challenge.now.sh
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ To get started, simply clone the repository and run `npm install`
 
 ```
 # Clone the repo
-git clone https://github.com/codebushi/nextjs-starter-forty.git
+git clone https://github.com/yldio/
 
 # Move into the new directory
 cd nextjs-starter-forty/
