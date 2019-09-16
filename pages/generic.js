@@ -1,7 +1,7 @@
 import Head from "next/head"
 
 import Layout from '../components/Layout'
-
+// An example would be the following: <code>Bar lyq!</code> which is deciphered as "One yld!".
 export default () => (
     <Layout>
         <Head>

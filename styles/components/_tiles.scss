@@ -28,6 +28,7 @@
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
+      color: _palette(fg);
 			cursor: default;
 			height: 40vh;
 			max-height: 40em;
@@ -43,10 +44,12 @@
 			header {
 				position: relative;
 				z-index: 3;
+        color: _palette(fg) !important;
 			}
 
 			h3 {
 				font-size: 1.75em;
+        color: _palette(fg) !important;
 
 				a {
 					&:hover {
@@ -79,7 +82,7 @@
 			}
 
 			&:after {
-				background-color: transparentize(_palette(bg), 0.75);
+				background-color: transparentize(_palette(fg), 0.75);
 				content: '';
 				display: block;
 				height: 100%;

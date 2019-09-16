@@ -9,6 +9,27 @@ export default () => (
             <Banner />
 
             <div id="main">
+                <section id="two">
+                    <div className="inner">
+                        <header className="major">
+                            <h2>CC#1 ROT 13: </h2>
+                        </header>
+                          <p>You are tasked in writing a function that diciphers various strings into readable text.
+                            <br/>
+                              There are three categories to this challenge:
+                              <br/>
+                              <br/>
+                              <ol><li>Smallest working solution in bytes</li>
+                                <li>Most performant solution</li>
+                                  <li>Most esoteric solution (complex, using monads, built 100% in css) for example</li>
+                                </ol>
+                          </p>
+                        <ul className="actions alt">
+                            <li><Link href="/one-rot13"><a className="button next special">Get Started</a></Link></li>
+                        </ul>
+                    </div>
+                </section>
+{ /*{
                 <section id="one" className="tiles">
                     <article style={{backgroundImage: `url('/static/images/pic01.jpg')`}}>
                         <header className="major">
@@ -53,17 +74,7 @@ export default () => (
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
                 </section>
-                <section id="two">
-                    <div className="inner">
-                        <header className="major">
-                            <h2>Massa libero</h2>
-                        </header>
-                        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-                        <ul className="actions">
-                            <li><Link href="/landing"><a className="button next">Get Started</a></Link></li>
-                        </ul>
-                    </div>
-                </section>
+                */}
             </div>
 
         </div>

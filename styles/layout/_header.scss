@@ -17,7 +17,7 @@
 		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
 		font-weight: _font(weight-bold);
-		height: 3.25em;
+		height: 5.25em;
 		left: 0;
 		letter-spacing: _font(letter-spacing-alt);
 		line-height: 3.25em;
@@ -34,7 +34,8 @@
 			font-size: 0.8em;
 			height: inherit;
 			line-height: inherit;
-			padding: 0 1.5em;
+			padding: 1.5em;
+      margin-top: 0em;
 
 			strong {
 				@include vendor('transition', (
@@ -133,7 +134,7 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('animation', 'none');
-			background-color: transparent;
+      background-color: _palette(bg-alt);
 			box-shadow: none;
 			position: absolute;
 
@@ -180,7 +181,7 @@
 		}
 
 		@include breakpoint(small) {
-			height: 2.75em;
+			height: 3.75em;
 			line-height: 2.75em;
 
 			.logo {

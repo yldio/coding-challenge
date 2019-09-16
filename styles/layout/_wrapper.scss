@@ -12,7 +12,8 @@
 			'-webkit-filter #{_duration(menu)} ease',
 			'opacity 0.375s ease-out'
 		));
-		padding-top: 3.25em;
+		padding-top: 5.25em;
+    background-color: _palette(bg-alt);
 
 		&.is-transitioning {
 			opacity: 0;
@@ -27,6 +28,6 @@
 		}
 
 		@include breakpoint(small) {
-			padding-top: 2.75em;
+			padding-top: 3.75em;
 		}
 	}

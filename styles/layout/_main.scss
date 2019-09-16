@@ -7,7 +7,7 @@
 /* Main */
 
 	#main {
-		background-color: _palette(bg-alt);
+		background-color: _palette(fg);
 
 		> * {
 			border-top: solid 1px _palette(border);
@@ -20,7 +20,7 @@
 		}
 
 		&.alt {
-			background-color: transparent;
+			background-color: _palette(fg);
 			border-bottom: solid 1px _palette(border);
 		}
 	}
