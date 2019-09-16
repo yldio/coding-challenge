@@ -6,7 +6,7 @@ const Banner = (props) => (
             </header>
             <div className="content">
                 <p>
-                  A <strong>monthly</strong> coding challenge for all <code>code</code> friendly members of YLDers.
+                  A <strong>monthly</strong> coding challenge for all <code>code</code> friendly YLDers.
                 </p>
                 <ul className="actions">
                     <li><a href="#two" className="button next scrolly">Get Coding</a></li>
