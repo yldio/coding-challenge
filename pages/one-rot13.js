@@ -1,4 +1,5 @@
 import Head from "next/head"
+import Link from 'next/link'
 
 import Layout from '../components/Layout'
 export default () => (
@@ -49,6 +50,29 @@ export default () => (
                     <p>Please raise them on <Link href="https://yld.slack.com/archives/CEFCP0Z26/p1568646863018100">#group-engineering</Link> in slack or to @tomgco directly.</p>
                     <h4>Closing Date</h4>
                     <p>Tuesday 8th October 2019</p>
+                    <hr/>
+                    <h4>Current Submissions</h4>
+                    <p>Note: Comparisions between languages are not guaranteed to be correct at this moment in time</p>
+                    <table style={{width:'75%'}}>
+                      <tr>
+                        <th>Name</th>
+                        <th>Language</th>
+                        <th>Size</th>
+                        <th>Operations per Second</th>
+                      </tr>
+                      <tr>
+                        <td>Reference</td>
+                        <td>Node v12.4.0</td>
+                        <td>98 bytes</td>
+                        <td>935,000 Ops/s</td>
+                      </tr>
+                      <tr>
+                        <td>James Wright</td>
+                        <td>Python 3.7.4</td>
+                        <td>133 bytes</td>
+                        <td>189,000 Ops/s</td>
+                      </tr>
+                    </table>
                 </div>
             </section>
         </div>
