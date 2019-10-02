@@ -52,7 +52,7 @@ export default () => (
                     <p>Tuesday 8th October 2019</p>
                     <hr/>
                     <h4>Current Submissions</h4>
-                    <p>Note: Comparisions between languages are not guaranteed to be correct at this moment in time</p>
+                    <p>Note: Order is based on time of entry, not position</p>
                     <table style={{width:'75%'}}>
                       <tr>
                         <th>Name</th>
@@ -61,7 +61,7 @@ export default () => (
                         <th>Operations per Second</th>
                       </tr>
                       <tr>
-                        <td>Reference</td>
+                        <td>Can you beat...</td>
                         <td>Node v12.4.0</td>
                         <td>98 bytes</td>
                         <td>935,000 Ops/s</td>
@@ -71,6 +71,42 @@ export default () => (
                         <td>Python 3.7.4</td>
                         <td>133 bytes</td>
                         <td>189,000 Ops/s</td>
+                      </tr>
+                      <tr>
+                        <td>Dan Bartlett</td>
+                        <td>Node v12.4.0 (C++ Addon)</td>
+                        <td>1278 bytes</td>
+                        <td>3,422,000 Ops/s</td>
+                      </tr>
+                      <tr>
+                        <td>Dan Bartlett</td>
+                        <td>Node v12.4.0 (WASM)</td>
+                        <td>616 bytes (Compiled WASM)</td>
+                        <td>NaN Ops/s (RangeError: start offset of Uint32Array should be a multiple of 4)</td>
+                      </tr>
+                      <tr>
+                        <td>Dan Bartlett</td>
+                        <td>Node v12.4.0 (WASM Rust)</td>
+                        <td>310 bytes (Rust Code, Compiled using wasm-pack)</td>
+                        <td>550,000 Ops/s</td>
+                      </tr>
+                      <tr>
+                        <td>Dan Bartlett</td>
+                        <td>Node v12.4.0 (GPU.js)</td>
+                        <td>1843 bytes</td>
+                        <td>1,222,000 Ops/s</td>
+                      </tr>
+                      <tr>
+                        <td>Dan Bartlett</td>
+                        <td>Node v12.4.0</td>
+                        <td>256 bytes</td>
+                        <td>1,052,000 Ops/s</td>
+                      </tr>
+                      <tr>
+                        <td>Dan Bartlett</td>
+                        <td>Node v12.4.0 (WASM Assembley Script)</td>
+                        <td>1843 bytes</td>
+                        <td>54,000 Ops/s</td>
                       </tr>
                     </table>
                 </div>
