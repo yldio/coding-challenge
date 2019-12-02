@@ -29,3 +29,5 @@ npm run dev
 # Build and export the site, the static files are generated in the out/ folder
 npm run export
 ```
+
+HTML and CSS templates [![License: CC BY 3.0](https://licensebuttons.net/l/by/3.0/80x15.png)](https://html5up.net/license) HTML5 UP
